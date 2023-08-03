@@ -1,3 +1,3 @@
 # Analyzing-Historical-Stock-Revenue-Data
 
-This is the Final Project of the 5th course in the IBM Data Science Certificate from Coursera.
+In this notebook we extract stock data using yfinance and also by means of webscraping using BeautifulSoup. We will cast the extracted data into Pandas dataframes and then use a function to visualize the data.
