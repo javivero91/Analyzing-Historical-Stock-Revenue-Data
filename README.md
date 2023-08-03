@@ -1,3 +1,3 @@
 # Analyzing-Historical-Stock-Revenue-Data
 
-In this project we extract stock data using yfinance and also by means of webscraping using BeautifulSoup. We will cast the extracted data into Pandas dataframes and then use a function to visualize the data.
+In this project we extract stock data using both yfinance and webscraping with BeautifulSoup. We then cast the extracted data into Pandas dataframes and finally use a function to visualize the data.
